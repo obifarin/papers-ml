@@ -1,6 +1,6 @@
 # Technical Paper Reading List
 
 
-**Classification**: 
-
+**Classification**
+-  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
