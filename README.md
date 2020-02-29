@@ -6,3 +6,4 @@
 
 **Application**
 - A Deep Learning Approach to Antibiotic Discovery
+- In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
