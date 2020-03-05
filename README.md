@@ -5,6 +5,9 @@
 -  Efficient Decision Tree Construction on Streaming Data (R)
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
+**Neural Network**
+-  Generative Adversarial Nets
+
 **Application(General)**
 
 
