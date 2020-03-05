@@ -16,3 +16,4 @@
 - DeepTox: Toxicity Prediction using Deep Learning
 - In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
 - A Deep Learning Approach to Antibiotic Discovery
+- MoleculeNet: A Benchmark for Molecular Machine Learning
