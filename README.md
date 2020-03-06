@@ -2,7 +2,7 @@
 
 
 **Classification**
--  Efficient Decision Tree Construction on Streaming Data (R)
+-  _Efficient Decision Tree Construction on Streaming Data (R)_
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
 **Neural Network**
