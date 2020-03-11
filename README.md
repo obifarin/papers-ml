@@ -1,4 +1,4 @@
-# Technical Paper Reading List
+# Paper List
 
 
 **`Classification`**
