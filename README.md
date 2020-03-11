@@ -1,7 +1,7 @@
 # Technical Paper Reading List
 
 
-`**Classification**`
+**`Classification`**
 -  Efficient Decision Tree Construction on Streaming Data __[Link](http://www.cs.kent.edu/~jin/Papers/sigkdd03.pdf)__
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
