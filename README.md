@@ -5,16 +5,16 @@
 -  Efficient Decision Tree Construction on Streaming Data __[[Link]](http://www.cs.kent.edu/~jin/Papers/sigkdd03.pdf)__
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
-**Clustering**
+**`Clustering`**
 - Support Vector Clustering
 
-**Neural Network**
+**`Neural Networks`**
 -  Generative Adversarial Nets
 
-**Application(General)**
+**`Application(General)`**
 
 
-**Application (Molecular Machine Learning)**
+**`Molecular Machine Learning`**
 - DeepTox: Toxicity Prediction using Deep Learning
 - In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
 - A Deep Learning Approach to Antibiotic Discovery
