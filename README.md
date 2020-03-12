@@ -6,7 +6,7 @@
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
 **`Clustering`**
-- Support Vector Clustering
+- Support Vector Clustering __[[Paper Link]](http://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf)__ __[[Review]]()__
 
 **`Neural Networks`**
 -  Generative Adversarial Nets
