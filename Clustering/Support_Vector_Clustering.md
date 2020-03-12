@@ -18,23 +18,23 @@
 **Results**: 
 - Shape and definition of the clusters are largely influenced by the soft margin C, and scale parameter, q of Gaussian kernel. For example, the number of clusters defined increases with increase in q as shown in figure 1.  
 
-[insert figure 1]
+<img src="images/SVC_figure1.png" width=600 align="center">
 
 - The relationship between scale parameter q, and the support vectors SV, showing that the number of support vector increases as q increases, and hence contour splitting (figure 1). 
 
-[insert figure 2]
+<img src="images/SVC_figure2.png" width=600 align="center">
 
 - In the real world however, outliers are ubiquitous, and the presence of outliers might prevent the smooth definition of clusters. To solve this problem BSV are deployed.  
 
-[insert figure 4]
+<img src="images/SVC_figure4.png" width=600 align="center">
 
 - The figure below shows clustering with and without BSV and (b) shows the power of BSVs
 
-[insert figure 3]
+<img src="images/SVC_figure3.png" width=600 align="center">
 
 - The algorithm was also shown to be useful for clustering overlapping clusters. And finally, they attempted the SVC algorithm on the iris data set. The clustering in the first two principal components led to the breaking apart of the third clusters into two making four in total (q = 6, p = 0.6, figure below). By increasing the number of principal components, the three clusters were conserved but not without some misclassifications:  
 
-[insert figure 7]
+<img src="images/SVC_figure7.png" width=600 align="center">
 
 - In summary, SVC is a clustering method with 1) two parameters (soft margin constant and the scaling parameter of the Gaussian kernel) and 2) unsupervised with respect to the number of clusters. 
 
