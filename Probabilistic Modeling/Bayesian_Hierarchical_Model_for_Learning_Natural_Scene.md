@@ -30,4 +30,4 @@ That is, the class that maximizes the likelihood of the image over the stated pa
 
 - They experimented with different types of local region representations using the following methods: evenly sampled grid, randomly sampling, kadir & brady saliency detector, and Lowe’s DoG detector. The Grid method performed best. 
 
-<img src="images/BHM_NS_Table1.png" width=200 align="center">
+<img src="images/BHM_NS_Table1.png" width=500 align="center">
