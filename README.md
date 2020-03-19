@@ -9,7 +9,7 @@
 - Support Vector Clustering __[[Paper Link]](http://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Clustering/Support_Vector_Clustering.md)__
 
 **`Probabilistic Modelling`**
--  GA Bayesian Hierarchical Model for Learning Natural Scene Categories __[[Paper Link]](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)__ __[[Review]]()__
+- Bayesian Hierarchical Model for Learning Natural Scene Categories __[[Paper Link]](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)__ __[[Review]]()__
 
 **`Neural Networks`**
 -  Generative Adversarial Nets
