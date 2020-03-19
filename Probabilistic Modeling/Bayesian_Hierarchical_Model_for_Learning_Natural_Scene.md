@@ -17,6 +17,6 @@
 
 <img src="images/BHM_NS_algorithm.png" width=400 align="center">
 
-- The model used was a generative graphical model. In summary, c represents the category (label) of an image; \Uppi represent the mixing parameters for the themes, determines the distribution of the intermediate themes;  \theta is the dirichelet parameter for each category; z are the intermediate themes; x as patch-level variables.  is a parameter that has the dimension of the number of themes (K) by the total number of codewords in the bag of codes (T). The goal of the learning process is to estimate parameters  and  for the training dataset. These are the priors over the mixing parameters and distribution over each topic of codewords. 
+- The model used was a generative graphical model. In summary, c represents the category (label) of an image; $ \Uppi $ represent the mixing parameters for the themes, determines the distribution of the intermediate themes;  \theta is the dirichelet parameter for each category; z are the intermediate themes; x as patch-level variables.  is a parameter that has the dimension of the number of themes (K) by the total number of codewords in the bag of codes (T). The goal of the learning process is to estimate parameters  and  for the training dataset. These are the priors over the mixing parameters and distribution over each topic of codewords. 
 
-<img src="images/graphical_model.png" width=400 align="center">
+<img src="images/BHM_NS_graphical_model.png" width=200 align="center">
