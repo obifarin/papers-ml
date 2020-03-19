@@ -17,6 +17,17 @@
 
 <img src="images/BHM_NS_algorithm.png" width=400 align="center">
 
-- The model used was a generative graphical model. In summary, c represents the category (label) of an image; $ \Uppi $ represent the mixing parameters for the themes, determines the distribution of the intermediate themes;  \theta is the dirichelet parameter for each category; z are the intermediate themes; x as patch-level variables.  is a parameter that has the dimension of the number of themes (K) by the total number of codewords in the bag of codes (T). The goal of the learning process is to estimate parameters  and  for the training dataset. These are the priors over the mixing parameters and distribution over each topic of codewords. 
+- The model used was a generative graphical model. In summary, c represents the category (label) of an image; pie represent the mixing parameters for the themes, determines the distribution of the intermediate themes;  θ is the dirichelet parameter for each category; z are the intermediate themes; x as patch-level variables. β is a parameter that has the dimension of the number of themes (K) by the total number of codewords in the bag of codes (T). The goal of the learning process is to estimate parameters θ and β for the training dataset. These are the priors over the mixing parameters and distribution over each topic of codewords. 
 
 <img src="images/BHM_NS_graphical_model.png" width=200 align="center">
+
+- 	After learning the model parameters, then given a new image the classification algorithm is the following: 
+c = arg⁡max⁡ p(x | c, θ, β) 
+
+That is, the class that maximizes the likelihood of the image over the stated parameters. 
+
+**Results**:
+
+- They experimented with different types of local region representations using the following methods: evenly sampled grid, randomly sampling, kadir & brady saliency detector, and Lowe’s DoG detector. The Grid method performed best. 
+
+<img src="images/BHM_NS_Table1.png" width=200 align="center">
