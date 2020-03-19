@@ -34,4 +34,4 @@ That is, the class that maximizes the likelihood of the image over the stated pa
 
 - The author carried out a 13-class categorization with 9 indoors and 4 outdoors categories. 100 training and 50 test examples were used for each category. The figure below shows the classification performances of the model via a confusion table. It plots the ground truth class against the prediction, and perfect classification would have a confusion table with a white diagonal. Note that the chance of a random correct classification given a 13-class classification problem is 7.7%, however the average performance of this classification problem is ~64%. However, the top two best classification performance is 82.3%
 
-<img src="images/confusion_table.png" width=500 align="center">
+<img src="images/BHM_NS_confusion_table.png" width=500 align="center">
