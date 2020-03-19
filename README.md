@@ -6,7 +6,7 @@
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 
 **`Clustering`**
-- Support Vector Clustering __[[Paper Link]](http://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Clustering/Support_Vector_Clustering.md)__
+- Support Vector Clustering __[[Paper Link]](http://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Clustering/Support_Vector_Clustering.md)__ __[[Video]](https://www.youtube.com/watch?v=kvpeygnobDw&t=1157s)__
 
 **`Probabilistic Modelling`**
 - Bayesian Hierarchical Model for Learning Natural Scene Categories __[[Paper Link]](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Probabilistic%20Modeling/Bayesian_Hierarchical_Model_for_Learning_Natural_Scene.md)__ __[[Video]](https://www.youtube.com/watch?v=0STsJNPjgEQ)__
