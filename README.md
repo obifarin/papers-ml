@@ -12,6 +12,7 @@
 - Bayesian Hierarchical Model for Learning Natural Scene Categories __[[Paper Link]](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Probabilistic%20Modeling/Bayesian_Hierarchical_Model_for_Learning_Natural_Scene.md)__ __[[Video]](https://www.youtube.com/watch?v=0STsJNPjgEQ)__
 
 **`Neural Networks`**
+- Understanding the difficulty of training deep feedforward neural networks
 -  Generative Adversarial Nets
 
 **`Application(General)`**
