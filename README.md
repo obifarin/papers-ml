@@ -13,7 +13,8 @@
 
 **`Neural Networks`**
 - Understanding the difficulty of training deep feedforward neural networks
--  Generative Adversarial Nets
+-  Generative Adversarial Nets __[[Paper Link]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)__ __[[Review]]()__ __[[Video]](https://www.youtube.com/watch?v=9JpdAg6uMXs)__
+
 
 **`Application(General)`**
 
