@@ -20,7 +20,7 @@
 
 
 **`Molecular Machine Learning`**
-- DeepTox: Toxicity Prediction using Deep Learning __[[Paper Link]](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)__ __[[Review]]()__ [[Video]]
+- DeepTox: Toxicity Prediction using Deep Learning __[[Paper Link]](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)__ __[[Review]]()__ [Video]
 - In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
 - A Deep Learning Approach to Antibiotic Discovery
 - MoleculeNet: A Benchmark for Molecular Machine Learning
