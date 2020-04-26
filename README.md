@@ -14,7 +14,7 @@
 **`Neural Networks`**
 - Understanding the difficulty of training deep feedforward neural networks
 - Generative Adversarial Nets __[[Paper Link]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)__ __[[Review (not completed)]]()__ __[[Video]](https://www.youtube.com/watch?v=9JpdAg6uMXs)__
-- YOLO?
+- You Only Look Once: Unified, Real-Time Object Detection __[[Paper Link]](https://arxiv.org/pdf/1506.02640.pdf)__ __[[Review (not completed)]]()__ __[[Video]](https://www.youtube.com/watch?v=9s_FpMpdYW8)__
 
 **`Application(General)`**
 
