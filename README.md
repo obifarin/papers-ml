@@ -12,10 +12,10 @@
 - Bayesian Hierarchical Model for Learning Natural Scene Categories __[[Paper Link]](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Probabilistic%20Modeling/Bayesian_Hierarchical_Model_for_Learning_Natural_Scene.md)__ __[[Video]](https://www.youtube.com/watch?v=0STsJNPjgEQ)__
 
 **`Neural Networks`**
-- Understanding the difficulty of training deep feedforward neural networks
-- Generative Adversarial Nets __[[Paper Link]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)__ __[[Review (not completed)]]()__ __[[Video]](https://www.youtube.com/watch?v=9JpdAg6uMXs)__
 - You Only Look Once: Unified, Real-Time Object Detection __[[Paper Link]](https://arxiv.org/pdf/1506.02640.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/Neural%20Networks/YOLO.md)__ __[[Video]](https://www.youtube.com/watch?v=9s_FpMpdYW8)__
 - Interpreting CNNs via Decision Trees __[[Paper Link]]()__ __[[Review]]()__
+- Understanding the difficulty of training deep feedforward neural networks
+- Generative Adversarial Nets __[[Paper Link]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)__ __[[Review (not completed)]]()__ __[[Video]](https://www.youtube.com/watch?v=9JpdAg6uMXs)__
 
 **`Application(General)`**
 
