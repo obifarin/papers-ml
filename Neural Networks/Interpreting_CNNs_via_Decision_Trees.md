@@ -27,7 +27,7 @@ concept. This association enables linguistic descriptions of middle-layer knowle
 - Bridging middle-layer features with final CNN predictions: to quantitatively explain how the 
 CNN uses these middle-layer features to compute prediction scores.
 
-<img src="images/CNN_DT_Fig1.png" width=500 align="center">
+<img src="images/CNN_DT_Fig1.png" width=300 align="center">
 
 - The rationale for CNN predictions on all images is categorized into various decision modes, where 
 each node in the decision tree represent a decision mode. Note that decision modes are the common 
@@ -40,7 +40,7 @@ by a few. The leave node represents the decision mode of a particular image.
 Filters are then assigned to a particular specific part name. Finally, decision tree was constructed 
 in order to explain how the CNN use the parts/filters for prediction. 
 
-<img src="images/CNN_DT_Fig2.png" width=500 align="center">
+<img src="images/CNN_DT_Fig2.png" width=300 align="center">
 
 - Therefore, when the CNN makes the prediction of an image, the decision tree infers a parse tree 
 as presented as the green lines in the figure above explaining the prediction, quantitatively. 
@@ -63,7 +63,7 @@ loss of using the decision trees (classification error and prediction error).
 
 <img src="images/CNN_DT_Tables.png" width=500 align="center">
 
-<img src="images/CNN_DT_Fig5_6.png" width=500 align="center">
+<img src="images/CNN_DT_Fig5_6.png" width=600 align="center">
 
 - Table 1 above shows the structure of the tree. Tables 2 and 3 use errors of object-part 
 contributions and the average fitness of contribution distributions, respectively, 
