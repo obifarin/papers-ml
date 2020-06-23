@@ -22,7 +22,7 @@
 
 **`Molecular Machine Learning`**
 - DeepTox: Toxicity Prediction using Deep Learning __[[Paper Link]](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)__ __[[Review (not completed)]]()__ 
-- Using Rule-Based Labels forWeak Supervised Learning: A ChemNet for Transferable Chemical Property Prediction
+- Using Rule-Based Labels for Weak Supervised Learning: A ChemNet for Transferable Chemical Property Prediction
 - A Deep Learning Approach to Antibiotic Discovery __[[Paper Link]](https://www.cell.com/cell/pdf/S0092-8674(20)30102-1.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue)__
 - In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
 - MoleculeNet: A Benchmark for Molecular Machine Learning
