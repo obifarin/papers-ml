@@ -11,3 +11,4 @@ __Question/Goal__: In chemistry, dataset is usually small and fragmented. This i
 
 __Methods:__
 - Leveraging on rule-based knowledge obtained from prior feature engineering research in chemistry (molecular descriptors), they trained NN on a large database (ChEMBL), before fine-tuning on a smaller dataset.  
+<img src="images/fig1.png" width=400 align="center">
