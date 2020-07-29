@@ -22,5 +22,16 @@ __Methods:__
 - _Data prep_: For Chemception model, SMILES strings for molecules were converted to respective 2D molecular structures using RDKit, which is then converted into a chemical image data. For SMILES2vec model, chemical text data were created. 
 - _Data Splitting_: 5-fold cross validation was carried out for the training datasets, while the validation set was used for performance evaluation and early stopping criterion. 
 
+
 __Experiments/Results:__
+
+- _ChemNet Model Exploration_: amongst the network architectures tested in the work, a deep and narrow T3 F16 architecture provides the best performance when generalizing to unseen chemical tasks.
+
+- _Transferability of Learned Representations_: From experiments, it was discovered that the first half of ChemNet developed basic chemical representations that are transferable to other chemical tasks, while the other half contains complex representations that are needed to be fine-tuned for specific chemical tasks.
+
+- _Performance gain from ChemNet transfer learning_: using the best ChemNet model and the best fine-tuning protocols, comparison were made with Chemception models that do not use transfer learning protocols, and with AugChemception (which refers to the modification of using augmented images).  Results show that the transfer learning techniques used in ChemNet provide a non-trivial improvement to model performance even when all other factors are held constant.
+<img src="images/fig5.png" width=400 align="center">
+
+- _ChemNet on Other Data Modalities_: To show that the ChemNet approach is not unique to just CNN-based models and images, a pre-trained SMILES2vec (an RNN-based model that uses SMILES strings as inputs), was used. The results (shown below) indicate that the ChemNet pretraining approach provides consistent performance improvement that is independent of the network’s architecture and data modality.
+<img src="images/fig6.png" width=400 align="center">
 
