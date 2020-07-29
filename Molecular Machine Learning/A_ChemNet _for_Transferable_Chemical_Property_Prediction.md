@@ -16,3 +16,4 @@ __Methods:__
 - _Idea_: The logic is the following: by using rule-based features to teach chemistry representations with large datasets, this could be helpful for better initialization of the weights of the network when fine-tuning on smaller and unrelated datasets. 
 
 - _Approach_:	In the first approach, a CNN-based model is used to learn the chemistry representations of molecules in the database using images of molecular drawings. Another approach is by using SMILES2vec, an RNN-based model that learns chemical representations from SMILES – a text-based representation of chemical structures. 
+- _Pretraining_: ChemNet was first trained using the ChEMBL database with ~1,700,000 compounds used. For the pre-training, RDKit was used to compute about 100 2D descriptors.
