@@ -26,3 +26,6 @@
 - A Deep Learning Approach to Antibiotic Discovery __[[Paper Link]](https://www.cell.com/cell/pdf/S0092-8674(20)30102-1.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue)__
 - In Silico Prediction of Chemical Toxicity for Drug Design Using Machine Learning Methods and Structural Alerts
 - MoleculeNet: A Benchmark for Molecular Machine Learning
+
+**`Artificial Intelligence in Medecine`**
+- A deep learning system for differential diagnosis of skin diseases __[[Paper Link]](https://www.nature.com/articles/s41591-020-0842-3)__
