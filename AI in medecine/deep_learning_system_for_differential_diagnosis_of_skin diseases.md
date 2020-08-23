@@ -27,7 +27,7 @@ __Methods:__
 
 - _Evaluation_: To evaluate the DLS performance, predicted differential diagnosis was compared to the ‘voted’ reference standard differential diagnosis using the top-k accuracy and the average top-k sensitivity.
 
-<img src="images/DLS_fig1.png" width=500 align="center">
+<img src="images/DLS_fig1.png" width=700 align="center">
 
 __Experiments/Results:__
 
@@ -35,12 +35,12 @@ __Experiments/Results:__
 
 - _DLS Performance compared with clinicians_: To compare the DLS performance with that of clinicians, validation set A was randomly subsampled. Eighteen clinicians of three different levels of training (dermatologists, PCPs and NPs, all of whom were board-certified) graded validation set B. On this smaller dataset, the DLS achieved a top-1 accuracy of 0.66, compared to 0.63 for dermatologists, 0.44 for PCPs and 0.40 for NPs. The DLS was non-inferior to the dermatologists at a 5% margin (P < 0.001). The top-3 accuracy was substantially higher at 0.90 for the DLS, compared to 0.75 for dermatologists, 0.60 for PCPs and 0.55 for NPs. In addition, using the AO metric yielded 0.63 for the DLS, compared with 0.58 for dermatologists, 0.46 for PCPs and 0.42 for NPs. When the comparator clinicians’ confidence in their primary diagnosis was lower, the clinicians’ accuracies dropped, whereas the DLS’s top-1 accuracy remained high (Fig. 2c, d). Representative examples of cases that were missed by PCPs or NPs are shown in Fig. 3a–e
 
-<img src="images/DLS_fig2.png" width=500 align="center">
+<img src="images/DLS_fig2.png" width=700 align="center">
 Fig. 2 | Performance of the DLS and the dermatologists (Derm), primary care physicians (PCPs) and nurse practitioners (NPs).
 
-<img src="images/DLS_fig3.png" width=500 align="center">
+<img src="images/DLS_fig3.png" width=700 align="center">
 Fig. 3 | Representative examples of challenging cases missed by non-dermatologists.
 
 - _Subgroup Analysis_: A sub-group analysis was carried out for difficult and often misidentified skin diseases at clinical presentation (table 2). 
 
-<img src="images/DLS_table2.png" width=500 align="center">
+<img src="images/DLS_table2.png" width=300 align="center">
