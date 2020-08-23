@@ -28,4 +28,4 @@
 - MoleculeNet: A Benchmark for Molecular Machine Learning
 
 **`Artificial Intelligence in Medecine`**
-- A deep learning system for differential diagnosis of skin diseases __[[Paper Link]](https://www.nature.com/articles/s41591-020-0842-3)__
+- A deep learning system for differential diagnosis of skin diseases __[[Paper Link]](https://www.nature.com/articles/s41591-020-0842-3)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/AI%20in%20medecine/deep_learning_system_for_differential_diagnosis_of_skin%20diseases.md)__
