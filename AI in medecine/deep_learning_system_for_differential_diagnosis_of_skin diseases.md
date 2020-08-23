@@ -38,9 +38,9 @@ __Experiments/Results:__
 <img src="images/DLS_fig2.png" width=700 align="center">
 Fig. 2 | Performance of the DLS and the dermatologists (Derm), primary care physicians (PCPs) and nurse practitioners (NPs).
 
-<img src="images/DLS_fig3.png" width=700 align="center">
+<img src="images/DLS_fig3.png" width=300 align="center">
 Fig. 3 | Representative examples of challenging cases missed by non-dermatologists.
 
 - _Subgroup Analysis_: A sub-group analysis was carried out for difficult and often misidentified skin diseases at clinical presentation (table 2). 
 
-<img src="images/DLS_table2.png" width=300 align="center">
+<img src="images/DLS_table2.png" width=700 align="center">
