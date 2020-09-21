@@ -29,4 +29,5 @@
 
 **`Artificial Intelligence in Medecine`**
 - A deep learning system for differential diagnosis of skin diseases __[[Paper Link]](https://www.nature.com/articles/s41591-020-0842-3)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/AI%20in%20medecine/deep_learning_system_for_differential_diagnosis_of_skin%20diseases.md)__
+- Modeling Patterns of Smartphone Usage and their Relationship to Cognitive Health __[[Paper Link]](https://arxiv.org/pdf/1911.05683.pdf)__ __[[Review]]()__
 - Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Streams __[[Paper Link]](https://evidation.com/wp-content/uploads/2019/08/developing-measures-of-cognitive-impairment-in-the-real-world-from-consumer-grade-multimodal-sensor-streams.pdf)__ __[[Review]]()__
