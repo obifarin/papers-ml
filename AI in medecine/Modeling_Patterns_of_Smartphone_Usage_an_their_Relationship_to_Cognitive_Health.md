@@ -59,5 +59,5 @@
 
 
 **Conclusions**: 
--	The generalization of our results to the general population will be limited by size of the dataset and the fact that symptomatic subjects were already diagnosed when entering the study.
+-	The generalization of the results to the general population will be limited by size of the dataset and the fact that symptomatic subjects were already diagnosed when entering the study.
 -	App usage alone captures systematic differences between healthy and symptomatic subjects.
