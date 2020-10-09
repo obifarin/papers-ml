@@ -26,6 +26,8 @@
 - A deep learning system for differential diagnosis of skin diseases __[[Paper Link]](https://www.nature.com/articles/s41591-020-0842-3)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/AI%20in%20medecine/deep_learning_system_for_differential_diagnosis_of_skin%20diseases.md)__
 - Modeling Patterns of Smartphone Usage and their Relationship to Cognitive Health __[[Paper Link]](https://arxiv.org/pdf/1911.05683.pdf)__ __[[Review]](https://github.com/obifarin/papers-ml/blob/master/AI%20in%20medecine/Modeling_Patterns_of_Smartphone_Usage_an_their_Relationship_to_Cognitive_Health.md)__
 
+**`Computer Vision`**
+
 **`Reading List`**
 -  SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
 - Understanding the difficulty of training deep feedforward neural networks
